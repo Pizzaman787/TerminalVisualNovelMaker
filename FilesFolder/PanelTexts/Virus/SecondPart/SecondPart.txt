@@ -1,0 +1,39 @@
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+V1RU5:
+*words*
+What do say we play a game?
+A. yes
+B. no
+*choice*
+A
+yes
+*p*
+SPYes
+*choice*
+B
+no
+*p*
+SPNo1
+*branch*
+SPYes
+*p*
+PanelTexts/Virus/SecondPart/SecondPartGame.txt
+*branch*
+SPNo1
+*p*
+PanelTexts/Virus/SecondPart/SecondPartNo2.txt
+*end*

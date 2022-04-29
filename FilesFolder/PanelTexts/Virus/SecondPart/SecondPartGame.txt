@@ -1,0 +1,19 @@
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    | |         | |    |   |
+|   |                       |   |
+|   |  _  _           _  _  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+V1RU5:
+*words*
+// AKS THE PLAYER SOMETHING AND THEN TRIES TO PLAY A GAME WHERE THE PLAYER HAS TO GUESS WHAT V1RU5 LIKES
+*end*

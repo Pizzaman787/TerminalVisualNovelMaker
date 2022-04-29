@@ -1,0 +1,27 @@
+*picture*
+<TIMER = 5 seconds>
+*name*
+Timer
+*words*
+You have 5 seconds to hit next or I will.
+*timer*
+5000
+*end*
+
+*picture*
+<TIMER = 4 seconds>
+*name*
+Timer
+*words*
+You have 4 seconds to hit next or I will.
+*timer*
+4000
+*end*
+
+*picture*
+<TIMER = 0 seconds>
+*name*
+Timer
+*words*
+You have all the time you need.
+*end*

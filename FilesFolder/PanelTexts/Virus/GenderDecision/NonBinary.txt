@@ -1,0 +1,24 @@
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                __     |   |
+|   |     _         |  |    |   |
+|   |    | |        |__|    |   |
+|   |                       |   |
+|   |     _           _  __ |   |
+|   |  /\/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+V1RU5:
+*words*
+Non-Binary? What are you then...hexadecimal?
+You humans are weird.
+*branch*
+NonBinary
+*p*
+PanelTexts/Virus/SecondPart/SecondPart.txt
+*end*

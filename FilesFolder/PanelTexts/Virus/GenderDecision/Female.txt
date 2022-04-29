@@ -1,0 +1,23 @@
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    | |         | |    |   |
+|   |                       |   |
+|   |  _  _           _  _  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+V1RU5:
+*words*
+I almost guessed that from your search history.
+*branch*
+Female
+*p*
+PanelTexts/Virus/SecondPart/SecondPart.txt
+*end*

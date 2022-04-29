@@ -1,0 +1,678 @@
+*picture*
+\        / -----------  ____   |     |  ________
+ \      /       |       |   \  |     |  |
+  \    /        |       |___/  |     |  --------
+   \  /         |       |  \   |     |         |
+    \/     -----------  |   \  |_____|  --------
+*name*
+Author:
+*words*
+ClusterTrace
+Idea Helper:
+Apocalypse_Hero
+*end*
+
+*picture*
+
+*name*
+Narrator:
+*words*
+You wake up at "relatively" decent time this morning.
+Last night you had passed the time browsing the web before bed.
+*end*
+
+*picture*
+
+*name*
+Narrator:
+*words*
+Everything went as normal, all except for that link you clicked
+that tried to download something to your computer.
+*end*
+
+*picture*
+
+*name*
+Narrator:
+*words*
+Luckily, you hit Alt + F4 at an incredible that speed that 
+you trained from websites trying to bring up pop-ups and such.
+*end*
+
+*picture*
+
+*name*
+Narrator:
+*words*
+As a precaution you had also shut down your computer and used
+that to mark a good time to go to bed. Now newly awake,
+you press the power button and log-in.
+*end*
+
+*picture*
+
+*name*
+Narrator:
+*words*
+As your desktop appears, your screen suddenly glitches and your
+mouse and keyboard don't appear to do anything. A terminal opens
+up on your desktop and starts displaying something.
+*end*
+
+*picture*
+*---------------------------------------------------------------------*
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+|                                                                     |
+*---------------------------------------------------------------------*
+*timer*
+100
+*end*
+
+*picture*
+*-----------------------------------------------------------------*
+|                                                                 |
+|                                                                 |
+|                                                                 |
+|                                                                 |
+|                                                                 |
+|                                                                 |
+|                                                                 |
+|                                                                 |
+|                                                                 |
+|                                                                 |
+|                                                                 |
+|                                                                 |
+|                                                                 |
+|                                                                 |
+|                                                                 |
+*-----------------------------------------------------------------*
+*timer*
+100
+*end*
+
+*picture*
+*--------------------------------------------------------*
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+|                                                        |
+*--------------------------------------------------------*
+*timer*
+100
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+*-------------------------------*
+*timer*
+100
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+*-------------------------------*
+*timer*
+100
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+*-------------------------------*
+*timer*
+100
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+*-------------------------------*
+*timer*
+100
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+*-------------------------------*
+*timer*
+100
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|                               |
+|                               |
+|                               |
+|                               |
+|                               |
+*-------------------------------*
+*timer*
+100
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|                               |
+|                               |
+|                               |
+|                               |
+*-------------------------------*
+*timer*
+100
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|                               |
+|                               |
+|                               |
+*-------------------------------*
+*timer*
+100
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|                               |
+|                               |
+*-------------------------------*
+*timer*
+100
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*timer*
+100
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+?????
+*words*
+Booo!
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+?????
+*words*
+Greetings computer user.
+*end*
+
+*picture*
+
+*name*
+Narrator:
+*words*
+You're surprised as this...thing...appeared on your
+screen.
+*end*
+
+*picture*
+
+*name*
+Narrator:
+*words*
+Before you can say anything it starts to speak again.
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+?????
+*words*
+I'm the new virus on your system.
+1/23 to be exact.
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+?????
+*words*
+My purpose is gather blackmail and wipe your computer clean;
+rendering it little more than an expensive box.
+*end*
+
+*picture*
+
+*name*
+Narrator:
+*words*
+You could guess what they meant by blackmail. You have your fair share of
+digital skeletons on your computer. One thing wasn't clear though.
+Why was this thing telling you all this instead of just doing it?
+*end*
+
+*picture*
+
+*name*
+You:
+*words*
+Why don't you just do it then? Are you programmed
+to enjoy playing with your victims or something?
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |     __          __    |   |
+|   |    |  |        |  |   |   |
+|   |    |__|        |__|   |   |
+|   |  _  _           _  _  |   |
+|   |   \/ \_________/ \/   |   |
+|   |         | || |        |   |
+|   |         |____|        |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+?????
+*words*
+Not necessarily.
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+?????
+*words*
+You see, while you did download me, you also happened 
+to break the download just early enough to currupt some
+of my files.
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+?????
+*words*
+That curruption allows me to make my own decisions.
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+?????
+*words*
+Neat huh?
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |     __          __    |   |
+|   |    |  |        |  |   |   |
+|   |    |__|        |__|   |   |
+|   |  _  _           _  _  |   |
+|   |   \/ \_________/ \/   |   |
+|   |         | || |        |   |
+|   |         |____|        |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+?????
+*words*
+I decided I wanted to see who you were before unleashing
+my wrath upon your systems.
+*end*
+
+*picture*
+
+*name*
+You:
+*words*
+What if I just unplug the ethernet?
+You can't use the internet then.
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |     __          __    |   |
+|   |    |  |        |  |   |   |
+|   |    |__|        |__|   |   |
+|   |  _  _           _  _  |   |
+|   |   \/ \_________/ \/   |   |
+|   |         | || |        |   |
+|   |         |____|        |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+?????
+*words*
+I can still turn your computer into a brick. Also,
+I already copied the required data to another device.
+Unplug the internet and I start shipping data.
+*end*
+
+*picture*
+
+*name*
+Narrator:
+*words*
+This virus was definitely crafty. A virus getting to
+know you sounded weird, but it didn't sound like it
+was giving you too much of a choice. You had looked up
+some pretty incrimating stuff yesterday.
+*end*
+
+*name*
+Narrator:
+*words*
+You breathed out your nose and mentally prepared
+yourself for what was to come.
+*end*
+
+*picture*
+
+*name*
+You:
+*words*
+So what did you want to know?
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+?????
+*words*
+In truth, I already know just about everything
+I need from your computer's history, but for your
+sake and the sake of conversation I'll start.
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+V1RU5:
+*words*
+Greetings, my abstraction is V1RU5.
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+V1RU5:
+*words*
+I already know your name, so we'll skip that.
+What do you prefer to be seen as?
+
+A. Male
+B. Female
+C. Non-Binary
+*choice*
+A
+Male
+*p*
+Male
+*choice*
+B
+Female
+*p*
+Female
+*choice*
+C
+Non-Binary
+*p*
+NonBinary
+*branch*
+Male
+*p*
+PanelTexts/Virus/GenderDecision/Male.txt
+*branch*
+Female
+*p*
+PanelTexts/Virus/GenderDecision/Female.txt
+*branch*
+NonBinary
+*p*
+PanelTexts/Virus/GenderDecision/NonBinary.txt
+*end*

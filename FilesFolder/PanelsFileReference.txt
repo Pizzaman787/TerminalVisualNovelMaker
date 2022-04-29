@@ -1,0 +1,147 @@
+Notes:
+-There doesn't have to be anything in picture, name, and or words, but it will create an empty panel.
+-Anything that is too big will create a segmentation fault upon loading. Pictures can be much bigger than words/names (1024*1024 vs 1024 characters)
+-Empty lines between things like *picture* and the picture below it will be stored in the panel.
+-The first one loaded be called "Beginning.txt" nad be in a folder called "PanelTexts"
+	-Other texts can be placed elsewhere, but I intended for all texts to be in PanelTexts
+-There can be as many *branch* signals in a panel and you want
+-The first branch to pass its requirements will cause it to load the path (what is after *p*) and not check other branches
+-Choices saved names (line after *p*) should all be uniquely named, else the program may accept a choice thinking it was chosen when it isn't
+-If a panel has choices, then that panel doesn't allow for built in commands (prevents conflict with commands)
+	-Can be a good idea to tell the player what the choices are (can list in in picture or words)
+	-since built in commands are overwritten, if you want not making a choice to be a choice, you have to put it as one
+	-Can leave the path empty (what is after *p*) if you don't want to store that choice (For if the choice was inconsequencial)
+-Size of pictures, names, words, and most other things is limited to 1024 characters
+-timer takes an input of a line that is in milliseconds
+-timer only works when going into the panel, not when going back (helps allow readers to see what was back)
+-Don't use timers on things with choices unless you make it so pressing next is an option(taken as the letter n), as it will get stuck trying to get to the next panel
+-Useful to pictures: www.ascii-art-generator.org
+
+Structure Examples below:
+-----------------------------------------------------------------------------------------------------
+Basic Structure:
+*picture*
+What ever the picture is suposed to be.
+*name*
+Whatever the name is supposed to be.
+*words*
+Whatever the words are supposed to be.
+*end*
+
+Choice Structure:
+*picture*
+What ever the picture is suposed to be.
+*name*
+Whatever the name is supposed to be.
+*words*
+Whatever the words are supposed to be.
+*choice*
+Whatever the choice is
+*p*
+what the choice's name is going to be in the choice file
+*end*
+
+Branch Structure:
+*picture*
+What ever the picture is suposed to be.
+*name*
+Whatever the name is supposed to be.
+*words*
+Whatever the words are supposed to be.
+*branch*
+Whatever the choice was to cause this branch
+*p*
+The filepath to whatever file it is supposed to read for the next panels as result of branch
+*end*
+
+Timer Structure:
+*picture*
+What ever the picture is suposed to be.
+*name*
+Whatever the name is supposed to be.
+*words*
+Whatever the words are supposed to be.
+*timer*
+1000
+*end*
+
+In use Examples below:
+-----------------------------------------------------------------------------------------------------
+Basic Example:
+*picture*
+[*O*]
+*name*
+John
+*words*
+Hello!
+*end*
+
+Choice Example:
+*picture*
+(o_o)
+*name*
+Choices
+*words*
+Which branch do you want?
+Pick one:
+-left
+-right
+*choice*
+left
+*p*
+choice1
+*choice*
+right
+*p*
+choice2
+*end*
+
+Choice Example 2:
+*picture*
+(o_o)
+*name*
+Choices
+*words*
+Which branch do you want?
+You want to go to the park?
+*choice*
+sure
+yes
+*p*
+ToPark
+*end*
+
+Branching Example:
+*picture*
+(^_^)
+*name*
+Tree Man
+*words*
+I like branches.
+*branch*
+choice1
+*p*
+PanelTexts/TreeMan.txt
+*branch*
+choice2
+*p*
+PanelTexts/TreeMan2.txt
+*end*
+
+Branching Example 2:
+*picture*
+(^_^)
+*name*
+Tree Man
+*words*
+I like multiple branches.
+*branch*
+choice1
+choice2
+*p*
+PanelTexts/TreeManMultipleRequirement.txt
+*branch*
+choice2
+*p*
+PanelTexts/TreeManJust2.txt
+*end*

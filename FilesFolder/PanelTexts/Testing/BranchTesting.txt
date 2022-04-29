@@ -1,0 +1,17 @@
+*picture*
+(*0*)
+*name*
+Bob
+*words*
+We are back here again.
+*end*
+
+*picture*
+[*O*]
+|   |
+#####
+*name*
+John
+*words*
+We sure are.
+*end*

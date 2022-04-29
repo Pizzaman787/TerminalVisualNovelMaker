@@ -1,0 +1,120 @@
+*picture*
+(*0*)
+*name*
+Bob
+*words*
+This is weird.
+*end*
+
+*picture*
+[*O*]
+|   |
+#####
+*name*
+John
+*words*
+It sure is.
+*end*
+
+*picture*
+[*O*]
+|   |
+#####
+*name*
+John
+*words*
+Want to go back?
+*choice*
+yes
+*p*
+GoBack
+*choice*
+no
+*p*
+
+*end*
+
+*picture*
+[*O*]
+|   |
+#####
+*name*
+John
+*words*
+You sure you want to go back?
+*choice*
+yes
+*p*
+GoBack2
+*choice*
+no
+*p*
+
+*end*
+
+*picture*
+[*O*]
+|   |
+#####
+*name*
+John
+*words*
+Want to test timers?
+*choice*
+yes
+*p*
+Timer
+*choice*
+no
+*p*
+
+*branch*
+Timer
+*p*
+PanelTexts/Testing/TimerTesting.txt
+*end*
+
+*picture*
+[*O*]
+|   |
+#####
+*name*
+John
+*words*
+Want to test pictures?
+*choice*
+yes
+*p*
+Pictures
+*choice*
+no
+*p*
+
+*branch*
+Pictures
+*p*
+PanelTexts/Testing/PictureTesting.txt
+*end*
+
+*picture*
+[*O*]
+|   |
+#####
+*name*
+John
+*words*
+Ok.
+*end*
+
+*picture*
+(Branching Panel)
+*name*
+Brancher
+*words*
+Prepare to branch.
+*branch*
+GoBack
+GoBack2
+*p*
+PanelTexts/Testing/BranchTesting.txt
+*end*

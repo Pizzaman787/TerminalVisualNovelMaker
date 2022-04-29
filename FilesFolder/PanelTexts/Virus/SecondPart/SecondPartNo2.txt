@@ -1,0 +1,40 @@
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    | |         | |    |   |
+|   |                       |   |
+|   |  _  _           _  _  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+V1RU5:
+*words*
+Please?
+
+A. fine
+B. no
+*choice*
+A
+fine
+*p*
+SPYes
+*choice*
+B
+no
+*p*
+Bad1
+*branch*
+SPYes
+*p*
+PanelTexts/Virus/SecondPart/SecondPartGame.txt
+*branch*
+Bad1
+*p*
+PanelTexts/Virus/SecondPart/SecondPartNo3.txt
+*end*

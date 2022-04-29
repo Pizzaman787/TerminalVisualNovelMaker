@@ -1,0 +1,445 @@
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |  #                    |   |
+|   |     ___       ___     |   |
+|   |    |_V_|     |_V_|    |   |
+|   |                       |   |
+|   |   /\  /\  /\  /\  /\  |   |
+|   |  /  \/  \/  \/  \/  \ |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+V1RU5:
+*words*
+Hmmmph!
+I have decided.
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+V1RU5:
+*words*
+Running BrickifyAndBlackmail.bat...
+*end*
+
+*picture*
+
+
+
+
+
+
+
+
+
+
+
+
+
+*name*
+Narrator:
+*words*
+V1RU5 proceeds to begin uploading data from your computer
+before destroying all of your data.
+*end*
+
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    |0|         |0|    |   |
+|   |                       |   |
+|   |  \  _           _  /  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+V1RU5:
+*words*
+Goodbye user, or should I say bad bye?
+*end*
+
+<================================>
+// above line is used as reference for the finished loading bar
+
+*picture*
+<                                >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<=                               >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<==                              >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<===                             >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<====                            >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<=====                           >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<======                          >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<=======                         >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<========                        >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<=========                       >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<==========                      >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<===========                     >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<============                    >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<=============                   >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<==============                  >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<===============                 >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<================                >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<=================               >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<==================              >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<===================             >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+
+*picture*
+<====================            >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<=====================           >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<======================          >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<=======================         >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<========================        >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<=========================       >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<==========================      >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<===========================     >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<============================    >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<=============================  >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<============================== >
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<===============================>
+*name*
+Loading...
+*words*
+
+*timer*
+50
+*end*
+
+*picture*
+<===============================>
+*name*
+Finished.
+*words*
+
+*end*
+
+*picture*
+
+*name*
+Narrator:
+*words*
+Your computer then begins to be destoryed.
+Your monitor shows a progressively glitchy mess
+and your fans begin to rapidly cut on and off.
+*end*
+
+*picture*
+
+*name*
+Narrator:
+*words*
+You watch helplessly as your computer and all
+of its data is destroyed in front of you. The
+realization that you may never get a job with
+some of the information that was on it now
+thrown somewhere onto the internet.
+*end*
+
+*picture*
+ _     _     _      _____          _
+| \   / \   | \     |      |\   | | \
+|_/  /___\  |  \    |____  | \  | |  \
+| \  |   |  |  /    |      |  \ | |  /
+|_/  |   |  |_/     |____  |   \| |_/
+*name*
+*words*
+*end*

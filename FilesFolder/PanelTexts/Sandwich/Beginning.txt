@@ -1,0 +1,102 @@
+*picture*
+_____    ____    _         ___
+|       |    |  | \    |  |   \
+-----   ------  |  \   |  |    \
+     |  |    |  |   \  |  |    /
+------  |    |  |    \_|  |___/
+
+|       | _____  _______  |    |
+|   _   |   |   |         |    |
+|  / \  |   |   |         |----|
+| /   \ |   |   |         |    |
+|/     \| __|__ |_______  |    |
+*name*
+Author
+*words*
+ClusterTrace
+*end*
+
+*picture*
+|||||||||||||||
+|||||||||||||||
+|||||||||||||||
+|||||||||||||||
+|||||||||||||||
+|||||||||||||||
+|||||||||||||||
+*name*
+?
+*words*
+Hmmmmmmm.
+*end*
+
+*picture*
+||||||||\     /\
+|||||||||----/  \
+|||||||||        |
+|||||||||-  -O-  |
+|||||||||        |
+|||||||||     |_/
+||||||||/\_/__|
+*name*
+?
+*words*
+*Click
+*end*
+
+*picture*
+\    /\       /\
+|   /  \-----/  \
+|  |             |
+|  |   -O-  -O-  |
+|  |             |
+|   \__|      |_/
+/      |_\_/__|
+*name*
+?
+*words*
+...
+*end*
+
+*picture*
+
+  |---|
+--|   |------------
+  |   |    _/\_
+  |___|   {    }
+          {____}
+-------------------
+*name*
+Sandwich Dog
+*words*
+There is like nothing in here!
+*end*
+
+*picture*
+
+  |---|
+--|   |------------
+  |   |    _/\_
+  |___|   {    }
+          {____}
+-------------------
+*name*
+Sandwich Dog
+*words*
+All I see is a glass of water and some mustard!
+*end*
+
+*picture*
+
+  |---|
+--|   |------------
+  |   |    _/\_
+  |___|   {    }
+          {____}
+-------------------
+*name*
+Sandwich Dog
+*words*
+Why do I have a glass of water in here?
+Hmm. Anyway, I guess I'll make a sandwich.
+*end*

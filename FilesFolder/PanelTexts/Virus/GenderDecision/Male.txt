@@ -1,0 +1,23 @@
+*picture*
+*-------------------------------*
+|                               |
+|   *-----------------------*   |
+|   |                       |   |
+|   |     _           _     |   |
+|   |    | |         | |    |   |
+|   |                       |   |
+|   |  _  _           _  _  |   |
+|   |   \/ \_________/ \/   |   |
+|   |                       |   |
+|   *-----------------------*   |
+|                               |
+*-------------------------------*
+*name*
+V1RU5:
+*words*
+I sometimes think of myself as a 1 as well.
+*branch*
+Male
+*p*
+PanelTexts/Virus/SecondPart/SecondPart.txt
+*end*
